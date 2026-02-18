@@ -8,10 +8,10 @@ All processes were performed using Python in Google Colab.
 
 ## 📁 Dataset
 
-HR Employee Dataset
+Source: Kaggle – Human Resources Data Set
+Link: https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
 
-Note: The dataset is not included in this repository.
-Please place the dataset file in the same directory as the notebook before running the project.
+File used: HRData_Set.csv (or the corresponding CSV from Kaggle)
 
 ## 🛠 Tools & Technologies
 
